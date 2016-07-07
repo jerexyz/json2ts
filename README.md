@@ -1,6 +1,7 @@
 ## json2ts
 Generate TypeScript interfaces from JSON data
-from [Blog Post on SPJeff](https://www.spjeff.com/2016/07/07/generate-typescript-interfaces-from-json-data/)
+
+[> Blog Post on SPJeff](https://www.spjeff.com/2016/07/07/generate-typescript-interfaces-from-json-data/)
 
 ## Purpose
 Autocomplete JSON property names in JavaScript by generating TypeScript interfaces from sample JSON data.  Check out the below video for a live demo.
